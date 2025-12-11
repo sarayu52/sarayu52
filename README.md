@@ -1,5 +1,8 @@
-### Hi there 👋
-
+Hi there, I am Sarayu Rayabharam.
+VEGA CODE Hackathon 2k25 winner🏆 |Oracle Cloud Infrastructure FoundationsAssociate | Data science | Exploratory Data Analysis | Artificial Intelligence | Cloud Computing.
+A final-year B.Tech student in Artificial Intelligence and Data Science at Ramachandra College of Engineering. I’m passionate about solving real-world problems using data, 
+AI, and technology that truly makes a difference. With a strong foundation in Python, machine learning, and data analytics, I’ve explored various practical applications 
+during my academic journey and internships.
 <!--
 **sarayu52/sarayu52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
